@@ -1,0 +1,88 @@
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Директор.resources
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Регистрация.resources
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Сотрудник.resources
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Авторизация.resources
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.МлМенеджер.resources
+F:\Users\Ks1berg\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.СтМенеджер.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Авторизация.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Директор.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.МлМенеджер.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Регистрация.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Сотрудник.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.СтМенеджер.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Core.WinForms.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Windows.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Licensing.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SfInput.WinForms.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Windows.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Windows.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Core.WinForms.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Windows.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SfInput.WinForms.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Windows.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Windows.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Core.WinForms.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Windows.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Licensing.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SfInput.WinForms.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Windows.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Base.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Windows.dll
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Core.WinForms.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Grid.Windows.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SfInput.WinForms.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Shared.Windows.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Base.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Syncfusion.Tools.Windows.xml
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Авторизация.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Директор.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.МлМенеджер.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Регистрация.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Сотрудник.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.СтМенеджер.resources
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Users\Ks1berg\Desktop\Курсач v0.1 (Зоопарк Ебучий)\v0.2\v1.0 beta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
